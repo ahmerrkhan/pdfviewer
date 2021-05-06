@@ -15,7 +15,7 @@ class _pdfscreenState extends State<pdfscreen> {
   void initState() {
     // TODO: implement initState
     super.initState();
-    initPdf();
+    _initPdf();
   }
 
   _initPdf() async {
