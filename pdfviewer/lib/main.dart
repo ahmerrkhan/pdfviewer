@@ -36,7 +36,7 @@ class _landingPageState extends State<landingPage> {
       body: Center(
         child: FlatButton(
           child: Text('Shayad : Hazrat John Elia',style: TextStyle(color: Colors.white,fontSize: 15.0),),
-          color: Colors.grey[900],
+          color: Colors.grey[800],
           onPressed: (){
             Navigator.push(
               context,
