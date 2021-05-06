@@ -33,7 +33,7 @@ class _pdfscreenState extends State<pdfscreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('John Elia'),
+        title: Text('John Elia 1'),
       ),
       body: _loading
           ? Center(
