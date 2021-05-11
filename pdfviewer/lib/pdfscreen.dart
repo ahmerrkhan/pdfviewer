@@ -31,7 +31,7 @@ class _pdfscreenState extends State<pdfscreen> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return Scafold(
       appBar: AppBar(
         title: Text('John Elia 2'),
       ),
