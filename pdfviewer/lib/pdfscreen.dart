@@ -3,7 +3,7 @@ import 'package:flutter_plugin_pdf_viewer/flutter_plugin_pdf_viewer.dart';
 
 class pdfscreen extends StatefulWidget {
   @override
-  _pdfscreenState1 createState() => _pdfscreenState();
+  _pdfscreenState createState() => _pdfscreenState();
 }
 
 class _pdfscreenState extends State<pdfscreen> {
