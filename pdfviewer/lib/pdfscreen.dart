@@ -13,7 +13,7 @@ class _pdfscreenState extends State<pdfscreen> {
 
   @override
   void initState() {
-    // TODO: implement initState
+    
     super.initState();
     _initPdf();
   }
