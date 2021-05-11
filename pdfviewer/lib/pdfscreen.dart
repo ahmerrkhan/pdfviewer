@@ -8,7 +8,7 @@ class pdfscreen extends StatefulWidget {
 
 class _pdfscreenState extends State<pdfscreen> {
   String pdfAsset = "assets/143_shayad-bookspk.pdf";
-  PDFDocument _doc;
+  PDFDocument _doc1;
   bool _loading;
 
   @override
