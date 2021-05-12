@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart' as materialIcon;
 import 'package:flutter_plugin_pdf_viewer/flutter_plugin_pdf_viewer.dart' as plugins;
 import 'package:pdfviewer/pdfscreen.dart' as pdfviewer;
 
