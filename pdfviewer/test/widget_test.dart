@@ -24,7 +24,7 @@ void main() {
     await tester.pump();
 
     // Verify that our counter has incremented.
-    expect(find.text(''), findsNothing);
+    expect(find.text('<a'), findsNothing);
     expect(find.text('1'), findsOneWidget);
   });
 }
