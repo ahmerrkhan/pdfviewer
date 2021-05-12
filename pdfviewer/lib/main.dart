@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_plugin_pdf_viewer/flutter_plugin_pdf_viewer.dart';
-import 'package:pdfviewer/pdfscreen.dart';
+import 'package:pdfviewer/pdfscreen.dart' as pdfviewer;
 
 void main() => runApp(MyApp());
 
