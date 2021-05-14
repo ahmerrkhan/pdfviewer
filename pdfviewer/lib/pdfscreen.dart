@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart' as pdf;
+import 'package:flutter/material.dart' ;
 import 'package:flutter_plugin_pdf_viewer/flutter_plugin_pdf_viewer.dart';
 
 class pdfscreen extends StatefulWidget {
