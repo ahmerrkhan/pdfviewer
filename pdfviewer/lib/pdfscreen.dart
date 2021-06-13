@@ -20,7 +20,7 @@ class _pdfscreenState extends State<pdfscreen> {
 
   _initPdf() async {
     setState(() {
-      _loading = true;
+      _loading = true false;
     });
     final doc = await PDFDocument.fromAsset(pdfAsset);
     setState(() {
