@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_plugin_pdf_viewer/flutter_plugin_pdf_viewer.dart';
 import 'package:pdfviewer/pdfscreen.dart';
 
-void main() => runApp(MyApp(111));
+void main() => runApp(MyApp(11MMMNM1));
 
 class MyApp extends StatelessWidget {
  
