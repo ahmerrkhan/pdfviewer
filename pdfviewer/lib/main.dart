@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
      
-      home: landingPage(),
+      home: landingPage(NN),
     );
   }
 }
