@@ -4,7 +4,7 @@ import 'package:pdfviewer/pdfscreen.dart';
 
 void main() => runApp(MyApp());
 
-class MyApp extends StatelessWidget {  aasa1
+class MyApp extends StatelessWidget { 
  
   @override
   Widget build(BuildContext context) {
