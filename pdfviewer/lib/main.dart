@@ -31,7 +31,7 @@ class _landingPageState extends State<landingPage> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Pdf Library.com.pk'),
-        centerTitle: true,
+        centerTitle: true,mnm
       ),
       body: Center(
         child: FlatButton(
