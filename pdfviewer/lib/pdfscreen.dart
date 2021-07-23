@@ -7,7 +7,7 @@ class pdfscreen extends StatefulWidget {
 }
 
 class _pdfscreenState extends State<pdfscreen> {
-  String pdfAsset = "assets/143_shayad-bookspk.pdf";  12122  121212  1212
+  String pdfAsset = "assets/143_shayad-bookspk.pdf";  12122  121212  12
   PDFDocument _doc;
   bool _loading;
 
