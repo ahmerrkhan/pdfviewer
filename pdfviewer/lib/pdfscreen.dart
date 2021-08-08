@@ -10,7 +10,7 @@ class _pdfscreenState extends State<pdfscreen> {
   String pdfAsset = "assets/143_shayad-bookspk.pdf";  
   PDFDocument _doc;
   bool _loading;    
-  a sa s 
+  
   @override
   void initState() {
     
